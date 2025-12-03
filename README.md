@@ -1,8 +1,6 @@
 <h1 align="center">Tere 👋, Ma olen pleo</h1>
 <h3 align="center">IT noorem spetsialist, õppimas koodimist ja veebi arendust</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfinity" alt="nfinity" /></a> </p>
-
 - 🔭 Töötan praegu selle kallal [it25blogi](https://nfinity2.github.io/it25blogi/)
 
 - 🌱 Praegu õpin **CSS, HTML, WordPress**
