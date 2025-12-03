@@ -5,7 +5,7 @@
 
 - 🔭 Töötan praegu selle kallal [it25blogi](https://nfinity2.github.io/it25blogi/)
 
-- 🌱 I’m currently learning **CSS, HTML, WordPress**
+- 🌱 Praegu õpin **CSS, HTML, WordPress**
 
 - 👯 Soovin koostööd teha **amaidla63 & jteller**
 
