@@ -1,4 +1,4 @@
-<h1 align="center">Tere 👋, Ma olen pleo</h1>
+<h1 align="center">print("hello world")👋</h1>
 <h3 align="center">IT noorem spetsialist</h3>
 
 - 🔭 Töötan praegu selle kallal [it25blogi](https://nfinity2.github.io/it25blogi/)
