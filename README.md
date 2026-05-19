@@ -1,9 +1,9 @@
 <h1 align="center">print("hello world")👋</h1>
 <h3 align="center">IT noorem spetsialist</h3>
 
-- 🔭 Töötan praegu selle kallal [it25blogi](https://nfinity2.github.io/it25blogi/)
+- 🔭 Töötan praegu mitte millegi peal.
 
-- 🌱 Praegu õpin **CSS, HTML, WordPress, Python**
+- 🌱 Praegu õpin **Bash, PHP, Windows Server**
 
 - 👯 Soovin koostööd teha **amaidla63 & jteller**
 
