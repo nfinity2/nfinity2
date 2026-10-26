@@ -13,7 +13,7 @@
   <a href="https://github.com/nfinity2">
     <img src="https://img.shields.io/badge/GitHub-nfinity2-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://instagram.com/p1_armin">
+  <a href="[https://instagram.com/p1_armin"](https://www.instagram.com/1pleooo)>
     <img src="https://img.shields.io/badge/Instagram-1pleooo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
